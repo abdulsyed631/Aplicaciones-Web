@@ -1,3 +1,3 @@
 # paso 1
 
-<img scr="Imagines_Instalacion_Ubuntu_server/Paso1.png">
+<img scr="Imagines_Instalacion_Ubuntu_server/Paso 1.png">
