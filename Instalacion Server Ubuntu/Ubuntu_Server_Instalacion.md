@@ -8,3 +8,5 @@
 # Paso 
 
 ![image alt](https://github.com/abdulsyed631/Aplicaciones-Web/blob/2c61525dc38842fc68185379e901dd21fc6b8392/Instalacion%20Server%20Ubuntu/Imagines_Instalacion_Ubuntu_server/Paso%203.png)
+
+![image alt](Instalacion Server Ubuntu/Imagines_Instalacion_Ubuntu_server/Paso 3.png)
