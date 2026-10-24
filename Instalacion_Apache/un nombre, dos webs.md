@@ -62,6 +62,11 @@ pegas esto para crear virtual host
 ![image alt](https://github.com/abdulsyed631/Aplicaciones-Web/blob/34e4bf2c19130423dfd1b7a647e2dc5747d17467/Instalacion_Apache/Imagenes/creando%20virtual%20host.png)
 
 
+> [!IMPORTANT]
+>  ServerName: el nombre de la web (igual en los dos bloques).
+• DocumentRoot: la carpeta donde están las páginas de cada web.
+• DirectoryIndex: la página principal de la intranet, ya que no es index.html.
+• El bloque Directory es lo que pide usuario y contraseña (ya lo conocéis de la práctica anterior).
 
 
 
