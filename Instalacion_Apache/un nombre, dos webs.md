@@ -97,7 +97,7 @@ y en el puerto :9999 me pide usario y la contresena
 > [!WARNING]
 >Me esta donde problemas al intrar con el nombre ``http://smr.com``
 > <img width="1281" height="660" alt="image" src="https://github.com/user-attachments/assets/1061dc63-fc08-4a13-ab16-cbaac2d28ff5" />
-><img width="1277" height="829" alt="image" src="https://github.com/user-attachments/assets/6c6c82a5-210e-420c-85fe-6aab0f49a5e3" />
+><img width="127" height="82" alt="image" src="https://github.com/user-attachments/assets/6c6c82a5-210e-420c-85fe-6aab0f49a5e3" />
 
 
 
