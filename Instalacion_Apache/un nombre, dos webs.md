@@ -108,8 +108,29 @@ y en el puerto :9999 me pide usario y la contresena
 >Inicialmente la web no cargaba desde la máquina cliente porque estaba modificando el archivo >/etc/hosts únicamente en el propio servidor Ubuntu. El error se solucionó al comprender que >la asignación del dominio [www.smr.com](https://www.smr.com) a la IP local debía hacerse en >el archivo hosts del cliente (la máquina desde la que se navega) para que el navegador >pudiera resolver el nombre correctamente
 
 
+# Ahora si quieres buscar desde windows se hace asi
+
+Paso 1 
+Abres cmd y ejuctas como administrador 
+pegas este comando
+```
+notepad C:\Windows\System32\drivers\etc\hosts
+```
+<img width="972" height="508" alt="image" src="https://github.com/user-attachments/assets/099f6849-206f-4834-b2ed-024a1ec2b63d" />
 
 
+paso 2 se abre un note pad pegas tu ip y el domainio que queires poner
+
+
+<img height="450" alt="image" src="https://github.com/user-attachments/assets/20553cdc-866d-47af-8e95-2a404650cf61" />
+
+Paso 3 comprobacion
+
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/0cb473c4-fcfb-435e-8229-580b7bb08a62" />
+
+
+
+Ahora funciona desde windows tmb
 
 
 
