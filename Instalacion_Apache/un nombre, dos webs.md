@@ -81,6 +81,8 @@ sudo apachectl configtest
 sudo systemctl restart apache2
 ```
 
+<img width="1273" height="276" alt="image" src="https://github.com/user-attachments/assets/5985f2cc-ff09-49c0-8d94-df91be92e526" />
+
 
 
 
