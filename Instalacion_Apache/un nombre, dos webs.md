@@ -10,5 +10,7 @@ aqui ves que ha creado los dos archivos
 # Paso 2 
 Escribimos Bienvenidos a SMR como escribir? Con commando ``echo``
 
-```echo "<h1>Bienvenidos a SMR</h1>" | sudo tee /var/www/smr/web/index.html```
-```echo "<h1>Intranet de SMR</h1>" | sudo tee /var/www/smr/intranet/intranet.html```
+```
+echo "<h1>Bienvenidos a SMR</h1>" | sudo tee /var/www/smr/web/index.html
+echo "<h1>Intranet de SMR</h1>" | sudo tee /var/www/smr/intranet/intranet.html
+```
