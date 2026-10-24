@@ -20,19 +20,26 @@
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Custom Badge](https://img.shields.io/badge/Status-Awesome-success?style=for-the-badge)
 
+
+
 + Added a cool new feature
 - Removed old buggy code
   Unchanged line of code
+
 
   {
   "name": "super-project",
   "version": "1.0.0",
   "active": true
 
+  
+
 <details>
 <summary><b>Click here to see the secret menu! 🌟</b></summary>
 
 Surprise! Here is extra hidden content that doesn't clutter the main page.
+
+
 
 </details>
 
