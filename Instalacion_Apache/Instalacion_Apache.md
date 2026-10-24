@@ -2,7 +2,7 @@
 
 instalar apache2
 
-# PASO 1
+# 
 sudo apt update 
 sudo apt isntall apache2 -y
 
