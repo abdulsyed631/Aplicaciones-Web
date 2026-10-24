@@ -100,8 +100,12 @@ y en el puerto :9999 me pide usario y la contresena
 ><img  width="500" alt="image" src="https://github.com/user-attachments/assets/6c6c82a5-210e-420c-85fe-6aab0f49a5e3" />
 
 <!--width="1281" height="660"
-<!-- width="1277" height="829"
+ width="1277" height="829" -->
 
+
+> [!TIP]
+>Nota de resolución de problemas:
+>Inicialmente la web no cargaba desde la máquina cliente porque estaba modificando el archivo >/etc/hosts únicamente en el propio servidor Ubuntu. El error se solucionó al comprender que >la asignación del dominio [www.smr.com](https://www.smr.com) a la IP local debía hacerse en >el archivo hosts del cliente (la máquina desde la que se navega) para que el navegador >pudiera resolver el nombre correctamente
 
 
 
