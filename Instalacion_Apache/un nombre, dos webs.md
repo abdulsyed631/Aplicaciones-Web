@@ -84,7 +84,10 @@ sudo systemctl restart apache2
 <img width="1273" height="276" alt="image" src="https://github.com/user-attachments/assets/5985f2cc-ff09-49c0-8d94-df91be92e526" />
 
 
+# PASO 6 Paso 6 · Comprobar que funciona
 
+
+https://github.com/abdulsyed631/Aplicaciones-Web/blob/c851fc708c6e49575b9b6c081afdaff2958f30b8/Instalacion_Apache/Imagenes/comprobamos%20sitioweb%2080.png
 
 
 
