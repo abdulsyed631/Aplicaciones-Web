@@ -48,9 +48,13 @@ Listen 9999
 ```
 sudo nano /etc/apache2/sites-available/smr.conf
 ```
+
 antes
+
 <img width="719" height="95" alt="image" src="https://github.com/user-attachments/assets/a4d2c617-d905-4eb9-9964-8b3a7e3359a1" />
+
 despues
+
 <img width="683" height="61" alt="image" src="https://github.com/user-attachments/assets/5c58f8ed-956f-4fb1-8cea-3b2af20a3d56" />
 
 cuando abres ```sudo nano /etc/apache2/sites-available/smr.conf```
