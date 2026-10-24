@@ -72,6 +72,15 @@ pegas esto para crear virtual host
 >  El bloque Directory es lo que pide usuario y contraseña (ya lo conocéis de la práctica anterior).
 
 
+Paso 5 · Activar el sitio y reiniciar Apache
+
+```
+sudo a2ensite smr.conf
+sudo a2dissite 000-default.conf
+sudo apachectl configtest
+sudo systemctl restart apache2
+```
+
 
 
 
