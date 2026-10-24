@@ -36,11 +36,7 @@
 
 <details>
 <summary><b>Click here to see the secret menu! 🌟</b></summary>
-
 Surprise! Here is extra hidden content that doesn't clutter the main page.
-
-
-
 </details>
 
 <p align="center">
