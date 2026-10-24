@@ -94,6 +94,12 @@ y en el puerto :9999 me pide usario y la contresena
 ![image alt](https://github.com/abdulsyed631/Aplicaciones-Web/blob/b62fbd2511c593bc924aedfbf2e7bfa09f885a2f/Instalacion_Apache/Imagenes/comprobacion%20sitio%20web%209999.png)
 
 
+> [!WARNING]
+>Me esta donde problemas al intrar con el nombre ``http://smr.com``
+> <img width="1281" height="660" alt="image" src="https://github.com/user-attachments/assets/1061dc63-fc08-4a13-ab16-cbaac2d28ff5" />
+
+
+
 
 
 
