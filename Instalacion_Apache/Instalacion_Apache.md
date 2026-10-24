@@ -17,7 +17,3 @@ Si ha instalado todo correcto debe salir active (running)
 
 <img width="674" height="101" alt="image" src="https://github.com/user-attachments/assets/de03e8c7-6653-4735-9364-cc874bcedda9" />
 
-
-
-
-
