@@ -14,6 +14,8 @@ sudo apt isntall apache2 -y
 Si ha instalado todo correcto debe salir active (running)
 
 (Photo de 1 y 2)
+<img width="674" height="101" alt="image" src="https://github.com/user-attachments/assets/de03e8c7-6653-4735-9364-cc874bcedda9" />
+
 
 
 
