@@ -7,7 +7,8 @@ Creamos los directorios necesarios y los archivos HTML iniciales para la web pú
 
 aqui ves que ha creado los dos archivos 
 
-# Paso 1 
+# Paso 1 Crear las carpetas y las páginas
+
 Escribimos Bienvenidos a SMR como escribir? Con commando ``echo``
 
 ```
