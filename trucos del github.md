@@ -27,18 +27,48 @@
   Unchanged line of code
 
 
+
   {
   "name": "super-project",
   "version": "1.0.0",
   "active": true
 
-  
 
-<details>
+
+  <details>
 <summary><b>Click here to see the secret menu! 🌟</b></summary>
+
 Surprise! Here is extra hidden content that doesn't clutter the main page.
+
 </details>
+
+
 
 <p align="center">
   <img src="https://github.com/your-username/your-username/raw/main/banner.png" width="600">
 </p>
+
+
+
+
+* Primary Theme: `#7289DA`
+* Accent Color: `#FF73FA`
+* Success Color: `#23D160`
+
+  
+
+- [x] Create project repository
+- [x] Add README documentation
+- [ ] Deploy to production
+
+
+```mermaid
+graph TD;
+    A[Start] --> B{Is it cool?};
+    B -- Yes --> C[Add to GitHub!];
+    B -- No --> D[Make it colorful];
+    D --> B;
+```
+
+
+
