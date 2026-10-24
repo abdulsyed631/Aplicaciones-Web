@@ -1,21 +1,7 @@
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+| Left column | Right column |
+|-------------|--------------|
+| pwd | Mostrar en qué directorio estás |
+| ls -lah | Ver archivos y carpetas, incluidos los ocultos. |
 
-      ### Left paragraph
 
-      This is my first paragraph.
-      It appears on the left side.
-
-    </td>
-    <td width="50%" valign="top">
-
-      ### Right paragraph
-
-      This is my second paragraph.
-      It appears on the right side.
-
-    </td>
-  </tr>
-</table>
