@@ -64,9 +64,12 @@ pegas esto para crear virtual host
 
 > [!IMPORTANT]
 >  ServerName: el nombre de la web (igual en los dos bloques).
-• DocumentRoot: la carpeta donde están las páginas de cada web.
-• DirectoryIndex: la página principal de la intranet, ya que no es index.html.
-• El bloque Directory es lo que pide usuario y contraseña (ya lo conocéis de la práctica anterior).
+
+>  DocumentRoot: la carpeta donde están las páginas de cada web.
+
+>  DirectoryIndex: la página principal de la intranet, ya que no es index.html.
+
+>  El bloque Directory es lo que pide usuario y contraseña (ya lo conocéis de la práctica anterior).
 
 
 
