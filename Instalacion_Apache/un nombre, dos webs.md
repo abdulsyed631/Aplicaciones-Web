@@ -30,3 +30,15 @@ yo he puesto ``1234``
 
 
 ![image alt](https://github.com/abdulsyed631/Aplicaciones-Web/blob/5e6e84aaf24a851ac6a87e2670a816c74d7b2ea1/Instalacion_Apache/Imagenes/passewd.png)
+
+
+# Paso 3 · 
+Decirle a Apache que escuche en el puerto 9999
+```
+sudo nano /etc/apache2/ports.conf
+```
+```
+Listen 80
+Listen 9999
+```
+![image alt](https://github.com/abdulsyed631/Aplicaciones-Web/blob/23816c685b510da61e0dceeb809005f3c46aa0a9/Instalacion_Apache/Imagenes/listen%209999.png)
