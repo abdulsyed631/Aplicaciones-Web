@@ -19,3 +19,18 @@ Si ha instalado todo correcto debe salir active (running)
 
 > [!NOTE]
 > Useful information that users should know, even when skimming.
+> 
+> [!NOTE]
+> Useful information that users should know, even when skimming.
+
+> [!TIP]
+> Helpful advice for doing something better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to prevent problems.
+
+> [!CAUTION]
+> Advises about potential risks or negative outcomes of an action.
