@@ -24,3 +24,4 @@ sudo htpasswd -c /etc/apache2/.htpasswd alumno
 > Os pedirá la contraseña dos veces. Ese usuario y esa contraseña serán los que pida la intranet.
 yo he puesto ``1234``
 
+![image alt](https://github.com/abdulsyed631/Aplicaciones-Web/blob/5e6e84aaf24a851ac6a87e2670a816c74d7b2ea1/Instalacion_Apache/Imagenes/passewd.png)
