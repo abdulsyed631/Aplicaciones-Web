@@ -4,8 +4,8 @@ instalar apache2
 
 # 
 ``sudo apt update ``
-``sudo apt isntall apache2 -y``
 
+``sudo apt isntall apache2 -y``
 
 ``sudo systemctl status apache2``
 
