@@ -1,4 +1,4 @@
-# Paso 1: Crear las carpetas y las páginas web
+# Paso : Crear las carpetas y las páginas web
 Creamos los directorios necesarios y los archivos HTML iniciales para la web pública y la intranet.
 
 ```sudo mkdir -p /var/www/smr/web /var/www/smr/intranet```
@@ -7,10 +7,20 @@ Creamos los directorios necesarios y los archivos HTML iniciales para la web pú
 
 aqui ves que ha creado los dos archivos 
 
-# Paso 2 
+# Paso 1 
 Escribimos Bienvenidos a SMR como escribir? Con commando ``echo``
 
 ```
 echo "<h1>Bienvenidos a SMR</h1>" | sudo tee /var/www/smr/web/index.html
 echo "<h1>Intranet de SMR</h1>" | sudo tee /var/www/smr/intranet/intranet.html
 ```
+
+# Paso 2 Crear el usuario de la intranet
+```
+sudo apt install apache2-utils -y
+sudo htpasswd -c /etc/apache2/.htpasswd alumno
+```
+> [!NOTE]
+> Os pedirá la contraseña dos veces. Ese usuario y esa contraseña serán los que pida la intranet.
+yo he puesto ``1234``
+
