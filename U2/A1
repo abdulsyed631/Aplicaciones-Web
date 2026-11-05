@@ -1,6 +1,4 @@
-| Left-aligned | Centered | Right-aligned |
-| :--- | :---: | ---: |
-| Apple | Orange | Banana |
-| $1.20 | $3.50 | $0.99 |
-
-
+First Header | Second Header
+------------ | -------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
